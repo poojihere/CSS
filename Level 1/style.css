@@ -1,0 +1,178 @@
+ /* Universal Selector 
+ *{
+    color:purple;
+ }
+ */
+
+/*Element Selector
+
+ h1{
+    color:purple;
+    background-color: coral;
+}
+
+*/
+/*ID Selector*/
+
+/*
+#headingOne{
+    color:aqua;
+}    */
+ /*
+ body{
+    background-color: grey;
+
+    background-color: rgb(0,0,255);
+
+    background-color: #D36135;
+
+}         
+
+h1{
+    color:purple;
+    background-color: coral;
+}
+
+button{
+    color:fuchsia;
+    background-color: aqua;
+} */
+
+/*
+#box{
+    background-color: blue;
+}
+
+.heading{
+    color: red;
+}
+
+button{
+    background-color: green;
+}
+
+
+h1{
+    text-align: center;
+    text-decoration:red underline dashed;
+}
+
+
+
+#h1{
+    font-weight: lighter;
+}
+
+#h2{
+    font-weight: normal;
+}
+
+#h3{
+    font-weight: bold;
+}
+
+#h4{
+    font-weight: bolder;
+}
+
+
+
+#one{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#two{
+    font-family:cursive;
+}
+
+
+
+#p1{
+    font-size:35px;
+}
+
+#p2{
+    font-size:50px;
+}
+
+#p3{
+    font-size:130px;
+}
+
+
+
+#id1{
+   line-height: 20px;
+   text-transform: uppercase;
+}*/
+
+
+/* #heading1{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+*{
+    font-family: 'Times New Roman';
+}
+
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 50px;
+    font-family: 'Arial';
+} */
+
+
+
+/* 
+div{
+    background-color: red;
+    display: inline;
+}
+
+button{
+    background-color: purple;
+    display: block;
+} */
+
+
+/* 
+div{
+    width:100px;
+    height: 100px;
+    padding: 25px;
+    margin: 25px;
+    display: inline-block;
+}
+
+#box2{
+    visibility: hidden;
+} */
+/* 
+div{
+    width:100px;
+    height: 100px;
+    padding: 25px;
+    margin: 25px;
+    display: inline-block;
+}
+
+#box1{
+    background-color: rgba(0,0,255,0);
+}
+#box2{
+    background-color: rgba(0,0,255,0.25);
+}
+#box3{
+    background-color: rgba(0,0,255,0.5);
+}
+#box4{
+    background-color: rgba(0,0,255,0.75);
+}
+#box5{
+    background-color: rgba(0,0,255,1);
+} */
